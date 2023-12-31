@@ -1,0 +1,4 @@
+r.VolumetricCloud 0
+r.VolumetricFog 0
+grass.sizeScale 0.5
+grass.densityScale 2

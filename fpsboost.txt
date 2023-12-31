@@ -1,0 +1,7 @@
+r.Streaming.PoolSize 0
+r.Nanite.MaxPixelsPerEdge 4
+r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution 16
+r.Shadow.Virtual.Enable 0
+r.VolumetricCloud.ViewRaySampleMaxCount 64
+r.VolumetricRenderTarget.Mode 3
+r.VolumetricCloud.StepSizeOnZeroConservativeDensity 4
