@@ -5,7 +5,7 @@
         "HideIcon": false,
         "HideIconAfter": 60,
         "IconURL": "https://i.imgur.com/LMVSNPG.png",
-        "DisableIconText": false,
+        "DisableIconText": true,
         "IconPosition": 0,
         "IconTextColor": 1,
         "OpenOnStart": true,
@@ -17,8 +17,8 @@
         "tab1": {
           "layout": 1,
           "buttontext": "Welcome & Rules",
-          "title1": "Welcome & Server Rules",
-          "text1": "Welcome to the Otter Bliss Laokia public server!\n\nPlease check the server rules and the important information!\n\nYou can join the server Discord or use the provided contact info to get in touch with the server owners. If there is anything you need, or you are experiencing issues with the server, don't hesitate to contact us!\n\n\n<TextStyle.Red>Server Rules:</>\n\n- Keep things pleasant so the server remains a chill and low-stress place to hang out.\n\n- If PVP is enabled (for breeding or events, etc.) do not engage other players in PVP unless they agree to it.\n\n- No tolerance for harassment, flaming, bullying, trolling, griefing, or any similar behavior.\n\n- The owner has health issues that cause stress to be fairly dangerous, thus the importance of a low-stress server environment.",
+          "title1": "<TextStyle.Yellow>Welcome & Server Rules</>",
+          "text1": "<RichColor Color=\"1,0.65,0,1\">Welcome to the Otter Bliss Laokia public server!\n\nPlease check the server rules and the important information!\n\nYou can join the server Discord or use the provided contact info to get in touch with the server owners. If there is anything you need, or you are experiencing issues with the server, don't hesitate to contact us!</>\n\n\n<TextStyle.Red>Server Rules:</>\n\n<RichColor Color=\"1,0.65,0,1\">- Keep things pleasant so the server remains a chill and low-stress place to hang out.\n\n- If PVP is enabled (for breeding or events, etc.) do not engage other players in PVP unless they agree to it.\n\n- No tolerance for harassment, flaming, bullying, trolling, griefing, or any similar behavior.\n\n- The owner has health issues that cause stress to be fairly dangerous, thus the importance of a low-stress server environment.</>",
           "imageurl": "https://i.imgur.com/o1KPqfY.png"
         }
       },
@@ -26,10 +26,10 @@
         "tab2": {
           "layout": 2,
           "buttontext": "Important Info",
-          "title1": "General (01-09-2023):",
-          "text1": "<TextStyle.Orange>Omega Teleporters:</>\n\nEvery tribe gets a free Teleporter pad for their main base. Contact the owner to request it if one has not already been provided! Otherwise, the engram for the teleporter pad is not available until level 90 to prevent overuse. There are public teleporters setup at the cave entrances and at key areas across the map./n/n/n<TextStyle.Orange>Pelayori's Cryo Storage Dino Backups:</>\n\nIf you store your dinos in a cryo capsule, they are automatically backed up to a file on the server. The server owners/admins can restore any dinos that are lost, so long as they have been backed up. As this is meant to be a chill, low-stress server, you may request for dinos that have been killed to be restored, not just those lost due to bugs/glitches./n/n/n<TextStyle.Orange>Omega Storage Dino Saving:</>\n\nThe Omega Storage system can store dead dinos, so long as their body remains. The dino will be revived in storage. You can therefore save a lost dino if you can store its body!",
-          "title2": "Automated Ark & Cryos:",
-          "text2": "The Automated Ark storage system does not save the custom data of items. This means that any items with custom data will revert to a blank/empty state if pulled into the system. Custom recipes include custom data, as do Pelayori's cryo capsules.\n\nTo safely use the AA sorting system while using the cryopods, make sure to exclude all containers where you will store the capsules from the system. There are two methods to do this, and to be safe you should do both!\n\n1- Rename all Cryo Terminals and Cryofridges with AAxP in the name, as well as any other containers in which you will store items with custom data.\n\n1b- Use the AA helper remote to force the rename option to appear in the radial menu of containers that don't normally have it.\n\n2- In the AA Control Console menu, manually select the structures to be excluded from the system.",
+          "title1": "<TextStyle.Yellow>General (01-09-2023):</>",
+          "text1": "<TextStyle.Red>Omega Teleporters:</>\n\n<RichColor Color=\"1,0.65,0,1\">Every tribe gets a free Teleporter pad for their main base. Contact the owner to request it if one has not already been provided! Otherwise, the engram for the teleporter pad is not available until level 90 to prevent overuse. There are public teleporters setup at the cave entrances and at key areas across the map.</>\n\n\n<TextStyle.Red>Pelayori's Cryo Storage Dino Backups:</>\n\n<RichColor Color=\"1,0.65,0,1\">If you store your dinos in a cryo capsule, they are automatically backed up to a file on the server. The server owners/admins can restore any dinos that are lost, so long as they have been backed up. As this is meant to be a chill, low-stress server, you may request for dinos that have been killed to be restored, not just those lost due to bugs/glitches.</>\n\n\n<TextStyle.Red>Omega Storage Dino Saving:</>\n\n<RichColor Color=\"1,0.65,0,1\">The Omega Storage system can store dead dinos, so long as their body remains. The dino will be revived in storage. You can therefore save a lost dino if you can store its body!</>",
+          "title2": "<TextStyle.Yellow>Automated Ark & Cryos:</>",
+          "text2": "<RichColor Color=\"1,0.65,0,1\">The Automated Ark storage system does not save the custom data of items. This means that any items with custom data will revert to a blank/empty state if pulled into the system. Custom recipes include custom data, as do Pelayori's cryo capsules.\n\nTo safely use the AA sorting system while using the cryopods, make sure to exclude all containers where you will store the capsules from the system. There are two methods to do this, and to be safe you should do both!\n\n1- Rename all Cryo Terminals and Cryofridges with AAxP in the name, as well as any other containers in which you will store items with custom data.\n\n1b- Use the AA helper remote to force the rename option to appear in the radial menu of containers that don't normally have it.\n\n2- In the AA Control Console menu, manually select the structures to be excluded from the system.</>",
           "imageurl": "https://i.imgur.com/o1KPqfY.png"
         }
       },
@@ -37,27 +37,27 @@
         "tab3": {
           "layout": 4,
           "buttontext": "News, Events, & Contact",
-          "title1": "News (01-09-2023):",
-          "text1": "- Fixed accidentally high wild dino levels; regular dinos are now the intended max of 150 and shinies are max of 250. Whoops!\n\n- Set death recovery to be automatic to hopefully avoid the Ark bug whereby when your body gets destroyed, your armor would too.",
-          "title2": "Events (01-09-2023):",
-          "text2": "Winter Wonderland event live for the foreseeable future. At least through January!",
-          "title3": "Plans (01-09-2023):",
-          "text3": "Nothing to report.",
-          "title4": "Owner Contact Info:",
-          "text4": "Steam & Xbox Username: Laokia\n\nDiscord Username: AshCamo\n\nEmail: laokia@outlook.com\n\nServer Discord: https://discord.com/invite/JCxvGe5xjh\n\n",
+          "title1": "<TextStyle.Yellow>News (01-09-2023):</>",
+          "text1": "<RichColor Color=\"1,0.65,0,1\">- Fixed accidentally high wild dino levels; regular dinos are now the intended max of 150 and shinies are max of 250. Whoops!\n\n- Set death recovery to be automatic to hopefully avoid the Ark bug whereby when your body gets destroyed, your armor would too.</>",
+          "title2": "<TextStyle.Yellow>Events (01-09-2023):</>",
+          "text2": "<RichColor Color=\"1,0.65,0,1\">Winter Wonderland event live for the foreseeable future. At least through January!</>",
+          "title3": "<TextStyle.Yellow>Plans (01-09-2023):</>",
+          "text3": "<RichColor Color=\"1,0.65,0,1\">Nothing to report.</>",
+          "title4": "<TextStyle.Yellow>Owner Contact Info:</>",
+          "text4": "<RichColor Color=\"1,0.65,0,1\">Steam & Xbox Username: Laokia\n\nDiscord Username: AshCamo\n\nEmail: laokia@outlook.com\n\nServer Discord: https://discord.com/invite/JCxvGe5xjh</>",
           "imageurl": "https://i.imgur.com/o1KPqfY.png"
         }
       },
       {
         "tab4": {
           "layout": 3,
-          "buttontext": "Rates, Settings & Mods",
-          "title1": "Rates (01-09-2023):",
-          "text1": "Section in progress!",
-          "title2": "Settings (01-09-2023):",
-          "text2": "Section in progress!",
-          "title3": "Mods (01-09-2023):",
-          "text3": "Section in progress!",
+          "buttontext": "Mods, Rates, & Settings",
+          "title1": "<TextStyle.Yellow>Mods (01-09-2023):</>",
+          "text1": "<RichColor Color=\"1,0.65,0,1\">Section in progress!</>",
+          "title2": "<TextStyle.Yellow>Rates (01-09-2023):</>",
+          "text2": "<RichColor Color=\"1,0.65,0,1\">Section in progress!</>",
+          "title3": "<TextStyle.Yellow>Settings (01-09-2023):</>",
+          "text3": "<RichColor Color=\"1,0.65,0,1\">Section in progress!</>",
           "imageurl": "https://i.imgur.com/o1KPqfY.png"
         }
       }
