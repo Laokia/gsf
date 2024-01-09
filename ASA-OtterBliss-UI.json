@@ -30,7 +30,7 @@
           "text1": "<TextStyle.Red>Omega Teleporters:</>\n\n<RichColor Color=\"1,0.65,0,1\">Every tribe gets a free Teleporter pad for their main base. Contact the owner to request it if one has not already been provided! Otherwise, the engram for the teleporter pad is not available until level 90 to prevent overuse. There are public teleporters setup at the cave entrances and at key areas across the map.</>\n\n\n<TextStyle.Red>Pelayori's Cryo Storage Dino Backups:</>\n\n<RichColor Color=\"1,0.65,0,1\">If you store your dinos in a cryo capsule, they are automatically backed up to a file on the server. The server owners/admins can restore any dinos that are lost, so long as they have been backed up. As this is meant to be a chill, low-stress server, you may request for dinos that have been killed to be restored, not just those lost due to bugs/glitches.</>\n\n\n<TextStyle.Red>Omega Storage Dino Saving:</>\n\n<RichColor Color=\"1,0.65,0,1\">The Omega Storage system can store dead dinos, so long as their body remains. The dino will be revived in storage. You can therefore save a lost dino if you can store its body!</>",
           "title2": "<TextStyle.Yellow>Automated Ark & Cryos:</>",
           "text2": "<RichColor Color=\"1,0.65,0,1\">The Automated Ark storage system does not save the custom data of items. This means that any items with custom data will revert to a blank/empty state if pulled into the system. Custom recipes include custom data, as do Pelayori's cryo capsules.</>\n\n<RichColor Color=\"1,0.65,0,1\">To safely use the AA sorting system while using the cryopods, make sure to exclude all containers where you will store the capsules from the system. There are two methods to do this, and to be safe you should do both!</>\n\n<RichColor Color=\"1,0.65,0,1\">1- Rename all Cryo Terminals and Cryofridges with AAxP in the name, as well as any other containers in which you will store items with custom data.</>\n\n<RichColor Color=\"1,0.65,0,1\">1b- Use the AA helper remote to force the rename option to appear in the radial menu of containers that don't normally have it.</>\n\n<RichColor Color=\"1,0.65,0,1\">2- In the AA Control Console menu, manually select the structures to be excluded from the system.</>",
-          "imageurl": "https://i.imgur.com/o1KPqfY.png"
+          "imageurl": "https://i.imgur.com/4JnggXo.png"
         }
       },
       {
@@ -45,7 +45,7 @@
           "text3": "<RichColor Color=\"1,0.65,0,1\">Nothing to report.</>",
           "title4": "<TextStyle.Yellow>Owner Contact Info:</>",
           "text4": "<RichColor Color=\"1,0.65,0,1\">Steam & Xbox Username: Laokia</>\n\n<RichColor Color=\"1,0.65,0,1\">Discord Username: AshCamo</>\n\n<RichColor Color=\"1,0.65,0,1\">Email: laokia@outlook.com</>\n\n<RichColor Color=\"1,0.65,0,1\">Server Discord: https://discord.com/invite/JCxvGe5xjh</>",
-          "imageurl": "https://i.imgur.com/o1KPqfY.png"
+          "imageurl": "https://i.imgur.com/4JnggXo.png"
         }
       },
       {
@@ -58,7 +58,7 @@
           "text2": "<RichColor Color=\"1,0.65,0,1\">Section in progress!</>",
           "title3": "<TextStyle.Yellow>Settings (01-09-2023):</>",
           "text3": "<RichColor Color=\"1,0.65,0,1\">Section in progress!</>",
-          "imageurl": "https://i.imgur.com/o1KPqfY.png"
+          "imageurl": "https://i.imgur.com/4JnggXo.png"
         }
       }
     ],
