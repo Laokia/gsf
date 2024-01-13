@@ -2,14 +2,14 @@
   "WBUI2": {
     "settings": {
         "OpenButton": 0,
-        "HideIcon": false,
-        "HideIconAfter": 60,
+        "HideIcon": true,
+        "HideIconAfter": 300,
         "IconURL": "https://i.imgur.com/LMVSNPG.png",
         "DisableIconText": true,
         "IconPosition": 0,
         "IconTextColor": 1,
         "OpenOnStart": true,
-        "OpenOnStartOnlyNewPlayers": false,
+        "OpenOnStartOnlyNewPlayers": true,
         "UpdateInterval": 12
       },
     "tabs": [
