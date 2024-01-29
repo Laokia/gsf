@@ -3,11 +3,11 @@
     "settings": {
         "OpenButton": 0,
         "HideIcon": true,
-        "HideIconAfter": 300,
+        "HideIconAfter": 600,
         "IconURL": "https://i.imgur.com/LMVSNPG.png",
-        "DisableIconText": true,
+        "DisableIconText": false,
         "IconPosition": 0,
-        "IconTextColor": 1,
+        "IconTextColor": 8,
         "OpenOnStart": true,
         "OpenOnStartOnlyNewPlayers": false,
         "UpdateInterval": 12
@@ -18,7 +18,7 @@
           "layout": 1,
           "buttontext": "Welcome & Rules",
           "title1": "<TextStyle.Yellow>Welcome & Server Rules</>",
-          "text1": "<TextStyle.Orange>Please join the official server Discord for announcements and easier contact with the owner! It maintains the same friendly and chill atmosphere!</>\n<TextStyle.Orange>https://discord.gg/BksGdV5pJf</>\n\nWelcome to the Otter Bliss Laokia public server!\n\nPlease check the server rules and the important information!\n\nYou can join the server Discord or use the provided contact info to get in touch with the server owners. If there is anything you need, or you are experiencing issues with the server, don't hesitate to contact us!\n\n\n<TextStyle.Red>Server Rules:</>\n\n- Keep things pleasant so the server remains a chill and low-stress place to hang out.\n\n- If PVP is enabled (for breeding or events, etc.) do not engage other players in PVP unless they agree to it.\n\n- No tolerance for harassment, flaming, bullying, trolling, griefing, or any similar behavior.\n\n- The owner has health issues that cause stress to be fairly dangerous, thus the importance of a low-stress server environment.",
+          "text1": "<TextStyle.Orange>Please join the official server Discord for announcements and easier contact with the owner! It maintains the same friendly and chill atmosphere!</>\n<RichColor Color=\"1,0.65,0,1\">https://discord.gg/BksGdV5pJf</>\n\nWelcome to the Otter Bliss Laokia public server!\n\nPlease check the server rules and the important information!\n\nYou can join the server Discord or use the provided contact info to get in touch with the server owners. If there is anything you need, or you are experiencing issues with the server, don't hesitate to contact us!\n\n\n<TextStyle.Red>Server Rules:</>\n\n- Keep things pleasant so the server remains a chill and low-stress place to hang out.\n\n- If PVP is enabled (for breeding or events, etc.) do not engage other players in PVP unless they agree to it.\n\n- No tolerance for harassment, flaming, bullying, trolling, griefing, or any similar behavior.\n\n- The owner has health issues that cause stress to be fairly dangerous, thus the importance of a low-stress server environment.",
           "imageurl": "https://i.imgur.com/4JnggXo.png"
         }
       },
