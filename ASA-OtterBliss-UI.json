@@ -5,7 +5,7 @@
         "HideIcon": true,
         "HideIconAfter": 600,
         "IconURL": "https://i.imgur.com/LMVSNPG.png",
-        "DisableIconText": false,
+        "DisableIconText": true,
         "IconPosition": 0,
         "IconTextColor": 8,
         "OpenOnStart": true,
