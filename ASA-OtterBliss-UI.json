@@ -9,7 +9,7 @@
         "IconPosition": 0,
         "IconTextColor": 8,
         "OpenOnStart": true,
-        "OpenOnStartOnlyNewPlayers": true,
+        "OpenOnStartOnlyNewPlayers": false,
         "UpdateInterval": 12
       },
     "tabs": [
@@ -25,7 +25,7 @@
       {
         "tab2": {
           "layout": 2,
-          "buttontext": "Important Info",
+          "buttontext": "Important Info (4/09)",
           "title1": "<TextStyle.Yellow>General (04-09-2023):</>",
           "text1": "<TextStyle.Orange>Omega Teleporters:</>\n\nEvery tribe gets a free Teleporter pad for their main base. Contact an admin to request it if one has not already been provided! Otherwise, the engram for the teleporter pad is not available until level 88 to prevent overuse. There are public teleporters setup across the map, and a seperate teleporter for caves.\n\n\n<TextStyle.Orange>Pelayori's Cryo Storage Dino Backups:</>\n\nIf you store your dinos in a cryo capsule, they are automatically backed up to a file on the server. The server owners/admins can restore any dinos that are lost, so long as they have been backed up. As this is meant to be a chill, low-stress server, you may request for dinos that have been killed to be restored, not just those lost due to bugs/glitches.\n\n\n<TextStyle.Orange>Omega Storage Dino Saving:</>\n\nThe Omega Storage system can store dead dinos, so long as their body remains. The dino will be revived in storage. You can therefore save a lost dino if you can store its body!",
           "title2": "<TextStyle.Yellow>Automated Ark & Cryos:</>",
@@ -36,7 +36,7 @@
       {
         "tab3": {
           "layout": 4,
-          "buttontext": "News, Events, & Contact",
+          "buttontext": "News, Events, & Contact (4/09)",
           "title1": "<TextStyle.Yellow>News (04-09-2023):</>",
           "text1": "- Hopefully have the issue with transfers and tribes fuxed now, if you need anything restored please contact the admins!",
           "title2": "<TextStyle.Yellow>Events (04-09-2023):</>",
