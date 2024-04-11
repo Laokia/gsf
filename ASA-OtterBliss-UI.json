@@ -3,13 +3,13 @@
     "settings": {
         "OpenButton": 0,
         "HideIcon": true,
-        "HideIconAfter": 600,
+        "HideIconAfter": 300,
         "IconURL": "https://i.imgur.com/LMVSNPG.png",
         "DisableIconText": true,
         "IconPosition": 0,
         "IconTextColor": 8,
         "OpenOnStart": true,
-        "OpenOnStartOnlyNewPlayers": false,
+        "OpenOnStartOnlyNewPlayers": true,
         "UpdateInterval": 12
       },
     "tabs": [
